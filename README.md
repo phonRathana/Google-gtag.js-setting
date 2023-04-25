@@ -4,8 +4,8 @@
 <meta name="viewport"content="width=devi-width. inital-scale1">
 <title>Today'sData<title>
 <meta name="geo.region" content="KH">
-<title>Rathana phone Shop1 in  Phnom Penh </title>
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751"};;(()=>{var e,t,r={8768:(e,t,r)=>{"use st"}
+Today'sData<title> </haed> <body> <body> </body> </body> rathanaphon29@gmail.com (<head></head>): <!-- Google tag (gtag.js) --> <script async src="https://httpsrathanaphon.Website.co.inhttps://www.googletagmanager.com/gtag/js?id=AW-10919038707 script> <script> window.dataLayer = window.dataLayer || []; gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-10919038707'); </script> https://cdn.a
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config=
 <!-- Google Tag Manager -->
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -21,14 +21,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 <html analytics GA4>
-  <body>
-<!-- Google Tag Manager (noscript) -->
+  
 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5M4CWT"
 
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-<!-- End Google Tag Manager (noscript) -->
+
+
+
+
 
 
 
