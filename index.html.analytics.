@@ -33,7 +33,7 @@ ga('create', 'UA-98172888-1', 'auto'); ga('send', 'pageview');
 
 <script<!-- Google tag (gtag.js) -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=GT-WFMRKFW"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZFDZXNBY1D "></script>
 
 <script>
 
@@ -43,9 +43,9 @@ ga('create', 'UA-98172888-1', 'auto'); ga('send', 'pageview');
 
   gtag('js', new Date());
 
-  gtag('config', 'GT-WFMRKFW');
+  gtag('config',G-ZFDZXNBY1D );
 
 </script>
 <1 Google Tag Manager (noscript) ==>
 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5M4CWT height="0" width="0" style="display:none;visibility:hidden"> </iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-ZFDZXNBY1D height="0" width="0" style="display:none;visibility:hidden"> </iframe></noscript> <!-- End Google Tag Manager (noscript) -->
