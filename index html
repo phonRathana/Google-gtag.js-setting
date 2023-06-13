@@ -1,24 +1,25 @@
-<index.html>
-<head>
-<meta chargeset="UtF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config=
-
+<Doctype html
+<html lang="en">
+<dody>
+<meta charset="utf-8"
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<metaname="rivewport"Coutent="withd-device-width, initial-scale=0">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.
+min.css?v=1054274239"integrity="sha384-GJzZqFGwb1QTTN6wy59fFF1BUG.JpLSa9DkKMp0DgiMDm4iYMj70gZWKYb1706tws"
+crossorigin="anonymous">
 <!-- Google Tag Manager -->
-<meta name="viewport"content="width=devi-width. inital-scale1">
-<title>Today'sData<title>
-<meta name="geo.region" content="KH">
-Today'sData<title> </haed> <body> <body> </body> </body> rathanaphon29@gmail.com (<head></head>): <!-- Google tag (gtag.js) --> <script async src="https://httpsrathanaphon.Website.co.inhttps://www.googletagmanager.com/gtag/js?id=AW-10919038707 script> <script> window.dataLayer = window.dataLayer || []; gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('conig', 'AW-10919038707'); </script> https://cdn.a
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-})(window,document,'script','dataLayer','GTM-T5M4CWT');</script>
-
+<script>(function(w, d,s,1,i){w[1]=w[1]|| [];w[1].push('gtm.start':new Date().getTime(), event: 'gtm.js' });var f=d. getElementsByTagName(s)[0],
+j=d.createElement(s),dl=11='dataLayer'?'&l="
++1::.async=true;j.src=https://www.googletagmanager.com/gtm.js?id='+i+dl; f.parentNode.insertBefore(j,f):
+})(window,document, 'script', 'dataLayer'. GTM-T5M4CWT);</script>
 <!-- End Google Tag Manager -->
+<table>Google analytics tutorials</table>
+
+<head>
+<boby>
+<div class="row justify-content-center align-self-center">
+  </div><main class="Contaner-1g pt4" 
+  <h1>Hello analytics</h1>
 
 
 
