@@ -66,8 +66,4 @@ if (query('read_container_data')) {
     '&envName=' + cv.environmentName +
     '&ctid=' + cv.containerId +
     '&debugMode=' + cv.debugMode +
-    '&previewMode=' + cv.previewMode;
-  if (query('send_pixel', pixelUrl)) {
-    sendPixel(pixelUrl);
-  }
-}
+    '&previewMode=' + cv.previewMo
